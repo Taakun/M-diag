@@ -7,7 +7,7 @@
 また、音楽の数値を可視化する機能もあるので、必ずあなたに合う音楽が見つかるでしょう!  
 <img src="https://user-images.githubusercontent.com/106829693/197347769-9f5c0dfa-d972-4c8a-9009-934e92beb7a6.png" width="500">  
 「M-diag」は[こちら](https://m-diag-app.herokuapp.com/)
-＊追記
+追記
 M-diagのURLは失効しました。(herokuの無料利用が終了したため)
 
 ## ディレクトリの大まかな説明
