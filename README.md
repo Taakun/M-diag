@@ -1,11 +1,14 @@
 # 音楽診断アプリ「M-diag」
 こちらはSakulabハッカソン2022の作品です。
+2022年10月頃公開
 
 ## 作品紹介
 今回作成したのは音楽診断アプリ「M-diag」で、簡単な質問に答えるだけで、あなたにぴったりの音楽を紹介します!  
 また、音楽の数値を可視化する機能もあるので、必ずあなたに合う音楽が見つかるでしょう!  
 <img src="https://user-images.githubusercontent.com/106829693/197347769-9f5c0dfa-d972-4c8a-9009-934e92beb7a6.png" width="500">  
 「M-diag」は[こちら](https://m-diag-app.herokuapp.com/)
+＊追記
+M-diagのURLは失効しました。(herokuの無料利用が終了したため)
 
 ## ディレクトリの大まかな説明
 「音楽診断用データ.ipynb」・「spotify_apiの分析.ipynb」では、楽曲のデータを取得したり、分析したりするのに使用しました。  
